@@ -15,7 +15,7 @@ This project is a **demo for hand tracking and touchless interfaces**, not just 
 - The webcam activates and **tracks your hand using MediaPipe’s Hand Landmarker model**.
 - Your **index fingertip** is detected and visualized on the screen.
 - Animated mice (`mouse.png`) move randomly across the screen.
-- When your fingertip gets close enough to a mouse, it is considered **caught**, demonstrating interaction with virtual objects.
+- When your **index fingertip touches a mouse**, it is considered **caught**, the mouse disappears, and a new one appears at a random position. This demonstrates **interaction with virtual objects**.
 - Once all mice are caught, new ones spawn automatically.
 - The demo lasts **60 seconds**.
 - When the time is up, your **final score** is displayed.
