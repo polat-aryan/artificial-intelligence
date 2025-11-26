@@ -48,5 +48,4 @@ and newer versions may lead to compatibility errors.
 
 Once Python 3.11 is installed, make sure to install all required libraries before running:
 
-```bash
-pip install -r requirements.txt
+
